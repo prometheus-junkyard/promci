@@ -1,2 +1,3 @@
 # promci
-Dagger.io libraries for Prometheus projects CI.
+
+[Dagger.io](https://dagger.io) libraries for Prometheus projects CI.
